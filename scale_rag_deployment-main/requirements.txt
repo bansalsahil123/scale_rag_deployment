@@ -1,0 +1,7 @@
+requests
+streamlit
+
+# --- OBSERVABILITY & TRACING ---
+langsmith
+logfire
+logfire[fastapi]
